@@ -1,0 +1,6 @@
+yfinanace 
+tensorflow==1.15.0
+numpy 
+pandas
+matplotlib
+scikit-learn
