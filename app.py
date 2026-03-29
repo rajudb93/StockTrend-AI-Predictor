@@ -156,11 +156,6 @@
 #         st.info("No profit data available for graph.")
 
 
-
-
-
-
-
 import streamlit as st
 import yfinance as yf
 import pandas as pd
